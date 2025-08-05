@@ -1,8 +1,5 @@
-# learn-file-storage-s3-typescript-starter (Tubely)
+# file-storage-s3-typescript (Tubely)
 
-This repo contains the starter code for the Tubely application - the #1 tool for engagement bait - for the "Learn File Servers and CDNs with S3 and CloudFront" [course](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-typescript) on [boot.dev](https://www.boot.dev)
-
-## Quickstart
 
 *This is to be used as a *reference\* in case you need it, you should follow the instructions in the course rather than trying to do everything here.
 
